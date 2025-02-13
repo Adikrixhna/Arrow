@@ -1,9 +1,6 @@
 streamlit
 pandas
-sqlite3
 openpyxl
+bcrypt
 smtplib
 email
-bcrypt
-io
-re
