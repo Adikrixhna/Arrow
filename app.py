@@ -185,7 +185,7 @@ def main():
         st.title("Arrow - Your Email Assistant")
 
         # Display logo and tagline with better alignment
-        logo_path = r"C:\Users\Admin\Desktop\bulk email\logo.png"  # Update with your logo file path
+        logo_path = r"logo.png"  # Update with your logo file path
         if os.path.exists(logo_path):
             st.image(logo_path, width=150)  # Adjust width to make the logo smaller
             st.markdown("<h3 style='text-align: center;'>Achievements Assured 🚀</h3>", unsafe_allow_html=True)
